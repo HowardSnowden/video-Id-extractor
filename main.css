@@ -1,0 +1,83 @@
+
+
+
+#main{
+    
+    
+   margin-top:5%;
+    letter-spacing:1px;
+    margin-left:auto;
+    margin-right:auto;
+   background-color:#dbd4d4;
+   width:90%;
+    padding-top:5%;
+}
+
+#main form{
+    width:90%;
+    margin:0 auto;
+    text-align:center;
+    padding:15px;
+}
+
+label{
+    display:inline-block;
+   float:left;
+    text-align:left;
+    width:200px;
+    margin-top:10px;
+    
+   
+}
+
+input{
+    display:block;
+    margin-top:10px;
+}
+#vidId{
+    width:75%;
+    margin-top:10px;
+    text-align:left;
+    background-color:#c5c2ff;
+    
+}
+
+#url{
+    width:75%;
+    
+}
+
+#submit{
+    width:100px;
+    margin:0 auto;
+    margin-top:20px;
+    background-color:blue;
+    color:white;
+    border-style:none;
+    padding:10px;
+    cursor:pointer;
+    border-radius:5px;
+}
+
+#submit:hover{
+    background-color:#05008b;
+}
+
+#thumbnail{
+    text-align:left;
+    
+}
+
+#pic{
+    max-width:400px;
+    max-height:300px;
+    width:50vw;
+    height:40vw;
+    margin-right:auto;
+    margin-left:auto;
+    margin-top:20px;
+    background-repeat:no-repeat;
+    background-size:cover;
+    
+    
+}
